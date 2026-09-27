@@ -1,0 +1,11 @@
+{
+  "contract": "contracts/court_decree_residual_duty_ledger.py",
+  "tests": "tests/test_court_decree_residual_duty_ledger.py",
+  "network": "Studio Dev",
+  "chain_id": 61997,
+  "contract_address": "0xAF83E0EEE7bdDe7981C1f58B94F5F2969C12DBe2",
+  "source_urls": [
+    "https://www.justice.gov/crt/case-document/united-states-v-city-newark-consent-decree",
+    "https://www.justice.gov/crt/special-litigation-section-case-summaries"
+  ]
+}
